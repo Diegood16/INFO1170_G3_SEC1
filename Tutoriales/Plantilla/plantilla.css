@@ -10,8 +10,8 @@ body {
     display: flex;
     flex-direction: column;
     min-height: 100vh; /* Ocupa al menos el 100% de la altura de la ventana */
-    background-color: #f0f8ff; /* Fondo azul claro */
-    color: #333; /* Texto gris oscuro */
+    background-color: #f0f8ff; 
+    color: #333; 
     font-family: Arial, sans-serif;
 }
 
@@ -31,13 +31,13 @@ nav ul {
 }
 
 nav a {
-    color: #ffffff; /* Blanco */
+    color: #ffffff; 
     text-decoration: none;
     font-weight: bold;
 }
 
 nav a:hover {
-    color: #ffcc00; /* Amarillo Mostaza */
+    color: #ffcc00; 
 }
 
 /* Main ocupa todo el espacio disponible */
@@ -46,7 +46,7 @@ main {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #d3d3d3; /* Gris Claro */
+    background-color: #d3d3d3; 
     padding: 2rem;
 }
 
@@ -66,8 +66,8 @@ button:hover {
 
 /* Footer fijo en la parte inferior */
 footer {
-    background-color: #333333; /* Gris oscuro */
-    color: #ffffff; /* Texto blanco */
+    background-color: #333333; 
+    color: #ffffff; 
     text-align: center;
     padding: 1rem;
 }
